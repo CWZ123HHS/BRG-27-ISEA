@@ -17,3 +17,7 @@ nano/gedit file can edit it from terminal.
 once edited and save, open the file, a web page with the edited teext will be shown
 closed service for apache2, tried to nmap 127.0.0.1, port 80 is not seen.
 once start again, port 80 will be shown
+
+
+change the permission for a file.
+chmod 000 newfile, newfile cannot be open, read, write, a logo related will be shown at the side of the file
