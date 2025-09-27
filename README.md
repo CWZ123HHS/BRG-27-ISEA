@@ -12,4 +12,5 @@ Lab 1B
 installed apache with linux comman
 Apache2 setup, able to enter web page with ipv4: 127.0.0.1
 
-nano/gedit file directly will cause error.
+create index.html with touch function.
+nano/gedit file can edit it from terminal.
