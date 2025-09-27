@@ -21,3 +21,4 @@ once start again, port 80 will be shown
 
 change the permission for a file.
 chmod 000 newfile, newfile cannot be open, read, write, a logo related will be shown at the side of the file
+created new user: testuser
