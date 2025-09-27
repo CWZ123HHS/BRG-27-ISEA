@@ -15,3 +15,5 @@ Apache2 setup, able to enter web page with ipv4: 127.0.0.1
 create index.html with touch function.
 nano/gedit file can edit it from terminal.
 once edited and save, open the file, a web page with the edited teext will be shown
+closed service for apache2, tried to nmap 127.0.0.1, port 80 is not seen.
+once start again, port 80 will be shown
