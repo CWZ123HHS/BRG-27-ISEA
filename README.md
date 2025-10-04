@@ -73,9 +73,16 @@ Domain used and DNS record configuration.
 
 Tools used to verify DNS propagation. 
 
+I have used the website https://www.whatsmydns.net to verify DNS propagation.
+
 SSL Certificate with Let’s Encrypt 
 
 Certbot usage and challenges. 
+
+During the first time I have tried to run the certbot command, the process failed, showing "Hint: The Certificate Authority failed to verify the temporary Apache configuration changes made by Certbot. Ensure that the listed domains point to this Apache server and that it is accessible from the internet."
+Then with the help of the lecturer, we manage to find out that it is A record that are named using "cweizhe22334455.online" have caused the problem.
+Therefore, I deleted it and test the certbot again. This time it manage to work.
+Next, I used the this link https://www.whatsmydns.net to check on the dns propagation, most of the cities have successfully recorded but some cities like Mexico City, Diemen and Antalya have failed to record. 
 
 HTTPS redirection and security headers. 
 
