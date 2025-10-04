@@ -1,7 +1,161 @@
-<img width="1594" height="1160" alt="image" src="https://github.com/user-attachments/assets/0cf5b038-8992-4f08-a57e-25625de34a19" /># BRG-27-ISEA
-To continue update
+Reflective Learning Journal Template – BRG27-ISEA 
 
-Sept 27 2025
+Student Name:  Chai Wei Zhe
+Student ID: CT0388103
+GitHub Repository Link: 
+Video Walkthrough Link: 
+
+FileName: CTID-ChaiWeiZhe-AssignmentISEA.docx  
+
+
+
+1. Introduction 
+
+This reflection journal is about my learning experience in the course "Introduction to Server Environments and Architectures".
+Throught the 4 lessons of this course, I was introduced to the foundational concepts in relation to the server infrastructure, deployment models, and the role of servers in supporting web and network-based applications.
+
+Refer: This reflection journal explores my learning experience in the "Introduction to Server Environments and Architectures" course. Throughout this course, I was introduced to the foundational concepts behind server infrastructure, deployment models, and the role of servers in supporting web and network-based applications. As someone developing a deeper understanding of IT systems, this course challenged me to think critically about how different server environments operate, interact, and scale. In this reflection, I will discuss key concepts that stood out, the challenges I encountered, and how this knowledge has influenced my perspective on system design and administration.
+
+
+2. Linux Environment Setup and GitHub Integration 
+
+ 
+
+GitHub Usage 
+
+ 
+
+3. Linux Services, Permissions, and Bash Scripting 
+
+Service Configuration and User Permissions 
+
+Services installed (e.g., NGINX, SSH). 
+
+Permission controls (e.g., chmod, chown, usermod). 
+
+Lessons learned on least privilege and access control. 
+
+Scripting and Automation 
+
+Purpose of your script (e.g., log backup). 
+
+Cron job setup and testing process. 
+
+Reflection on debugging and improvements. 
+
+ 
+
+4. Cloud Infrastructure and TCO Analysis 
+
+Cloud Deployment 
+
+Which platform you used (AWS/Azure/DO). 
+
+Steps taken to configure your cloud VM securely. 
+
+Reflection on cloud infrastructure provisioning. 
+
+Cost Analysis 
+
+Summary of TCO comparison across providers. 
+
+Criteria considered (cost, flexibility, scalability). 
+
+Your platform recommendation and why. 
+
+ 
+
+5. DNS Setup and SSL Configuration 
+
+DNS Management 
+
+Domain used and DNS record configuration. 
+
+Tools used to verify DNS propagation. 
+
+SSL Certificate with Let’s Encrypt 
+
+Certbot usage and challenges. 
+
+HTTPS redirection and security headers. 
+
+Reflection on the importance of encrypted traffic. 
+
+ 
+
+6. Automation and Cron Jobs 
+
+Describe cron jobs configured. 
+
+Script improvements and error handling. 
+
+Importance of automation in real-world environments. 
+
+ 
+
+7. Consulting Simulation and Additional Server Service 
+
+Peer Consultation Reflection 
+
+Overview of your proposed solution (stack, budget, security). 
+
+Feedback received and how you incorporated it. 
+
+Optional Lab (Your Chosen Service) 
+
+Service deployed (e.g., MariaDB, vsftpd, Docker). 
+
+Configuration steps and security considerations. 
+
+Reflection on learning a new service independently. 
+
+ 
+
+8. Problems Encountered and Solutions 
+
+(Create a table or list format.) | Problem | How You Solved It | |——–|——————-| | Example: SSL failure | Opened firewall and EC2 SG ports | 
+
+
+
+9. Industry Relevance 
+
+Which career roles this lab series relates to (SysAdmin, DevOps, etc.). 
+
+How this experience helped build confidence in real-world skills. 
+
+Mention any frameworks referenced (NIST, OWASP, SANS). 
+
+ 
+
+10. Final Reflection 
+
+Summarize your overall learning experience. 
+
+What skills you improved. 
+
+How you would approach future server projects differently. 
+
+ 
+
+11. AI Tools Used (if any) 
+
+List any AI tools (ChatGPT, Copilot) used for grammar, scripting help, etc. 
+
+Be honest and specific. 
+
+ 
+
+12. Appendix (Add as needed) 
+
+Bash scripts 
+
+Cron entries 
+
+Screenshots 
+
+NGINX or service config files 
+
+GitHub repo file structure 
 
 Lab 1A
 Downloaded VMware workstation Pro and ubuntu
@@ -26,10 +180,7 @@ created new user: testuser
 
 
 
-
 September 28
-
-
 
 
 
