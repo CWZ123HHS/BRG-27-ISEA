@@ -85,7 +85,6 @@ Therefore, I deleted it and test the certbot again. This time it manage to work.
 Next, I used the this link https://www.whatsmydns.net to check on the dns propagation, most of the cities have successfully recorded but some cities like Mexico City, Diemen and Antalya have failed to record. 
 
 HTTPS redirection and security headers. 
-
 Reflection on the importance of encrypted traffic. 
 
  
@@ -93,9 +92,7 @@ Reflection on the importance of encrypted traffic.
 6. Automation and Cron Jobs 
 
 Describe cron jobs configured. 
-
 Script improvements and error handling. 
-
 Importance of automation in real-world environments. 
 
  
@@ -103,17 +100,14 @@ Importance of automation in real-world environments.
 7. Consulting Simulation and Additional Server Service 
 
 Peer Consultation Reflection 
-
 Overview of your proposed solution (stack, budget, security). 
-
 Feedback received and how you incorporated it. 
-
 Optional Lab (Your Chosen Service) 
-
 Service deployed (e.g., MariaDB, vsftpd, Docker). 
 
-Configuration steps and security considerations. 
+Docker?
 
+Configuration steps and security considerations. 
 Reflection on learning a new service independently. 
 
  
@@ -127,9 +121,7 @@ Reflection on learning a new service independently.
 9. Industry Relevance 
 
 Which career roles this lab series relates to (SysAdmin, DevOps, etc.). 
-
 How this experience helped build confidence in real-world skills. 
-
 Mention any frameworks referenced (NIST, OWASP, SANS). 
 
  
@@ -137,10 +129,10 @@ Mention any frameworks referenced (NIST, OWASP, SANS).
 10. Final Reflection 
 
 Summarize your overall learning experience. 
-
 What skills you improved. 
-
 How you would approach future server projects differently. 
+
+When configuring the settings related to command, have to be more careful.
 
  
 
