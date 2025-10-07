@@ -14,8 +14,11 @@ Video Walkthrough Link:
 
 
 This reflection journal is about my learning experience in the course "Introduction to Server Environments and Architectures" (ISEA). 
+
 Throughout the 4 lessons of this course, I was introduced to the foundational concepts in relation to the server infrastructure, deployment models, and the role of servers in supporting web and network-based applications. 
+
 After going through the 4 days of lessons and lab activities, I have gained practical insights and deeper understanding of how server environments operate in real-world scenarios. 
+
 This reflection journal will highlight the lab activities that I have done, challenges faced, and knowledge learnt. 
 
 
