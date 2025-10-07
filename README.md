@@ -116,24 +116,47 @@ Reflection on learning a new service independently.
 
 (Create a table or list format.) | Problem | How You Solved It | |——–|——————-| | Example: SSL failure | Opened firewall and EC2 SG ports | 
 
+Unable to start up VM with VirtualBox. 
 
+Switch to VMware Workstation. 
+
+Failed to connect public address to domain. 
+
+Remove other A records that were added with the Domain name. 
+
+ 
+
+ 
 
 9. Industry Relevance 
 
 Which career roles this lab series relates to (SysAdmin, DevOps, etc.). 
+
 How this experience helped build confidence in real-world skills. 
+
 Mention any frameworks referenced (NIST, OWASP, SANS). 
+
+ 
+
+These lab series are related to career roles like System Administrator, DevOps Engineer, Linux Engineer as these types of career roles that require a strong foundation on Linux operating system.  
+
+This experience helps me to have a better understanding of how Linux skills is important and demanding as a real-world skill as many careers in the IT field are related to it. 
 
  
 
 10. Final Reflection 
 
-Summarize your overall learning experience. 
-What skills you improved. 
-How you would approach future server projects differently. 
+1. Summarize your overall learning experience. 
+2. What skills you improved. 
+3. How you would approach future server projects differently. 
 
-When configuring the settings related to command, have to be more careful.
+...
+Overall, the lessons of this course are scheduled fast, 2 weekends in a row and there are only 4 days of lessons. It will be tough to understand that much knowledge and going through the lab activities in this period of time. I would need more time to learn and train on using the Linux commands on Ubuntu to be more familiar with it. 
 
+During these 4 lessons, I have learnt how to use the Linux commands, permission, scripting, understand how to implement TCO to decide on the items needed to be bought, understand the how to use Amazon EC2. 
+
+In future if I were to approach server projects, I will need to be careful on each step to configure. Mistakes like typo error can cause the entire configuration to fail more easily. It will be hard to trace back to see what the problem is, and more time and resources will be wasted on reconfiguring. I also have understood what the server will be used for to ensure the proper packages and setup to be configured. Overall, interacting with servers needs to be careful in each portion and is best to take note of what was configured. 
+...
  
 
 11. AI Tools Used (if any) 
@@ -147,14 +170,14 @@ Be honest and specific.
 12. Appendix (Add as needed) 
 
 Bash scripts 
-
 Cron entries 
-
 Screenshots 
-
 NGINX or service config files 
-
 GitHub repo file structure 
+
+ 
+
+
 
 Lab 1A
 Downloaded VMware workstation Pro and ubuntu
