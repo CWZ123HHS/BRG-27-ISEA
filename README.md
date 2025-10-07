@@ -71,13 +71,15 @@ If the disk size that I am using has a maximum storage of 600GB, the maximum ava
 
 There are a few types of virtualisation tools, such as VMware Workstation and VirtualBox: 
 
-VMware Workstation provides more features as compared to VirtualBox and higher performance. 
-
-VirtualBox, free and open source, supports Windows, Linux, macOS, Solaris. 
+VMware Workstation provides more features as compared to VirtualBox and higher performance.
+VirtualBox, free and open source, supports Windows, Linux, macOS, Solaris.
 
 After completing this lab, I would say that although I have gotten some hands-on experience in using Ubuntu, my level of understanding and skills are still not up to the standard of where I can say I am confident to using it. I will require more practice and studying in this field to be more familiarised with it. 
-GitHub Usage 
 
+
+GitHub Usage
+
+GitHub is a cloud-based platform that enables the developers to store, manage, collaborate on code and other projects. In addition, it can also be used as a place to store notes. In GitHub, I have created a public repository that allows anyone to access it.  
  
 ===========================================================================================
 
