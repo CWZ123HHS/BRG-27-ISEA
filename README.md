@@ -9,6 +9,7 @@ GitHub Repository Link: https://github.com/CWZ123HHS/BRG_ISEA/blob/main/README.m
 Video Walkthrough Link:  
 
 
+===========================================================================================
 
 1. Introduction 
 
@@ -21,17 +22,65 @@ After going through the 4 days of lessons and lab activities, I have gained prac
 
 This reflection journal will highlight the lab activities that I have done, challenges faced, and knowledge learnt. 
 
-
-
+===========================================================================================
 
 
 2. Linux Environment Setup and GitHub Integration
 
+Lab 1a-1 Virtualisation and Linux Setup:  
+
+First, I have installed VMware Workstation Pro. Next, I download the disc image provided, `ubuntu-24.04.3-desktop-amd64.iso`. 
+Use the Ubuntu image for setup, then set name, the rest remains default, click the finish button, the VM will start to set up. 
+
+<img width="372" height="252" alt="1a VMware WS PRO installed" src="https://github.com/user-attachments/assets/f27cc1ef-0d5a-48fd-993a-214c33ce32b0" />
+
+<img width="1158" height="384" alt="1a ubuntu image downloaded" src="https://github.com/user-attachments/assets/b2653922-a539-43a7-988f-9b54a3772de5" />
+
+<img width="834" height="266" alt="choose image" src="https://github.com/user-attachments/assets/6cbdbe8f-2b91-4415-9d12-16a07e732a76" />
+
+<img width="876" height="748" alt="1a setup" src="https://github.com/user-attachments/assets/748173da-2180-410b-8e00-1e9b29c62fdd" />
 
 
+Once VM is set up, complete ubuntu installation set up process, installation will then proceed and prompted to reboot the system. Then login as the user. 
+
+<img width="952" height="668" alt="1a ubuntu install" src="https://github.com/user-attachments/assets/78d9e22d-8901-4db6-bd9f-cfe64871b55a" />
+
+
+Input command `sudo apt update` to update the list of available packages. 
+Then I continue to install virtual box guest, `sudo apt install virtualbox-guest-utils virtualbox-guest-x11` to allow better performance when using VM. 
+
+
+<img width="886" height="466" alt="1a sudo app update" src="https://github.com/user-attachments/assets/c6fa7ce6-a1ce-461d-a978-b7fc4af3446c" />
+
+<img width="1726" height="936" alt="1a install virtual box guest" src="https://github.com/user-attachments/assets/96986138-55f8-4ae9-a936-08bf6952efbe" />
+
+
+Install SSH with`sudo apt install openssh-server –y`, followed by `sudo systemctl start ssh`,`sudo systemctl status ssh` to enable SSH and ensure it is running. 
+
+<img width="948" height="372" alt="1a install openssh" src="https://github.com/user-attachments/assets/086b3fbd-c4e8-4188-bd17-aa4986b11318" />
+
+<img width="1248" height="784" alt="1a ssh enable running" src="https://github.com/user-attachments/assets/57a868c9-0668-448d-b464-8231654a77d2" />
+
+
+
+When setting up the Linux environment, we were told to use virtualisation software like VirtualBox or VMware Workstation Pro to set up the Ubuntu image. However, the VM could not run properly with VirtualBox. After completing the default setup, I am able to log in to the installation page. Once the settings are configured and installation starts, I then encounter a problem. The installation of Ubuntu starts to lag, then the progress status stops and stays there. The first half of the lesson was just trying to resolve this issue. Then before lunch, I changed to using VMware Workstation Pro instead. The whole process was smooth, Ubuntu managed to install, and I can continue with the lab activities. 
+
+I have learnt that Virtualisation tools is a type of software that simulates a virtualised environment to run an operating system on a machine-like servers or computers. It can allow things like running Ubuntu Linux in the Windows environment. The environment configured is based on the performance of the physical system, meaning that the maximum output of the environment will not exceed the physical system as they are sharing the same storage. 
+
+If the disk size that I am using has a maximum storage of 600GB, the maximum available size for the current VM will not exceed 600GB unless I upgrade the disk size to a larger one, like installing a larger solid-state drive (SSD). 
+
+There are a few types of virtualisation tools, such as VMware Workstation and VirtualBox: 
+
+VMware Workstation provides more features as compared to VirtualBox and higher performance. 
+
+VirtualBox, free and open source, supports Windows, Linux, macOS, Solaris. 
+
+After completing this lab, I would say that although I have gotten some hands-on experience in using Ubuntu, my level of understanding and skills are still not up to the standard of where I can say I am confident to using it. I will require more practice and studying in this field to be more familiarised with it. 
 GitHub Usage 
 
  
+===========================================================================================
+
 
 3. Linux Services, Permissions, and Bash Scripting 
 
