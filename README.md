@@ -23,9 +23,11 @@ This reflection journal will highlight the lab activities that I have done, chal
 
 
 
-2. Linux Environment Setup and GitHub Integration 
 
- 
+
+2. Linux Environment Setup and GitHub Integration
+
+
 
 GitHub Usage 
 
