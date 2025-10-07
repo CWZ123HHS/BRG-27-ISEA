@@ -1,20 +1,20 @@
-Reflective Learning Journal Template – BRG27-ISEA 
+Reflective Learning Journal Template – BRG28-ISEA 
 
-Student Name:  Chai Wei Zhe
-Student ID: CT0388103
-GitHub Repository Link: 
-Video Walkthrough Link: 
-
-FileName: CTID-ChaiWeiZhe-AssignmentISEA.docx  
+Student Name: Chai Wei Zhe 
+Student ID: CT0388103, 35900251 
+GitHub Repository Link: https://github.com/CWZ123HHS/BRG_ISEA/blob/main/README.md 
+Video Walkthrough Link:  
 
 
 
 1. Introduction 
 
-This reflection journal is about my learning experience in the course "Introduction to Server Environments and Architectures".
-Throught the 4 lessons of this course, I was introduced to the foundational concepts in relation to the server infrastructure, deployment models, and the role of servers in supporting web and network-based applications.
 
-Refer: This reflection journal explores my learning experience in the "Introduction to Server Environments and Architectures" course. Throughout this course, I was introduced to the foundational concepts behind server infrastructure, deployment models, and the role of servers in supporting web and network-based applications. As someone developing a deeper understanding of IT systems, this course challenged me to think critically about how different server environments operate, interact, and scale. In this reflection, I will discuss key concepts that stood out, the challenges I encountered, and how this knowledge has influenced my perspective on system design and administration.
+This reflection journal is about my learning experience in the course "Introduction to Server Environments and Architectures" (ISEA). 
+Throughout the 4 lessons of this course, I was introduced to the foundational concepts in relation to the server infrastructure, deployment models, and the role of servers in supporting web and network-based applications. 
+After going through the 4 days of lessons and lab activities, I have gained practical insights and deeper understanding of how server environments operate in real-world scenarios. 
+This reflection journal will highlight the lab activities that I have done, challenges faced, and knowledge learnt. 
+
 
 
 2. Linux Environment Setup and GitHub Integration 
